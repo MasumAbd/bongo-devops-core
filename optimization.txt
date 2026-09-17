@@ -1,1 +1,1 @@
-Line 1: setting from conflict-branch
+Line 1: setting from main
